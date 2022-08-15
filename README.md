@@ -1,5 +1,5 @@
-### Hi, my name is Vlad!
-⚙️ I'm developing in web development and AI.
+<h1 align="center">Hi, my name is Vlad!</h1>
+<p>I am developing in the field of artificial intelligence and web development. I have extensive experience in developing telegram bots, scripts and parsers.</p>
 
 
 [<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=vlad-eat&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />](https://github.com/vlad-eat)
