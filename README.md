@@ -9,9 +9,6 @@
 <!-- Языки программирования -->
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/apple-touch-icon-144x144-precomposed.png" alt="python" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="40" height="40"/> </a>
-<!-- Фреймворки -->
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.2/assets/img/favicons/apple-touch-icon.png" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
 <!-- Базы данных -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
 <!-- ОС -->
